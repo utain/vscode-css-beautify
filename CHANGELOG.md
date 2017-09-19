@@ -4,4 +4,7 @@ All notable changes to the "vscode-stylesheet-beautify" extension will be docume
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
-- Initial release
+
+## [0.0.3] - 2017-19-19
+### Added
+- Upgrade dependencies
